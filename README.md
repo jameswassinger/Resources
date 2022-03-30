@@ -21,30 +21,27 @@ https://github.com/ChrisLGardner/presentations/tree/main/2019-04-27-PSH-Summit-D
 * https://github.com/persistent13/summit2019
 
 ### Videos
-* https://youtu.be/fAfxDjg1Y_M
-* https://youtu.be/d5x0Di52QZA
-* https://youtu.be/AgCRjWRliwE
+* [Don't do that, do this instead: PowerShell worst practices and how to solve them by Chris Gardner](https://youtu.be/fAfxDjg1Y_M)
+* [Writing Award Winning PowerShell Functions and Script Modules by Mike Robbins](https://youtu.be/d5x0Di52QZA)
+* [PowerShell Module 5: Creating Custom PowerShell Modules](https://youtu.be/AgCRjWRliwE)
 
 ### Repositories
-* https://github.com/PowerShell/PowerShell
-* https://github.com/janikvonrotz/awesome-powershell
-* https://github.com/bcafferky
-* https://github.com/mikefrobbins
-* https://github.com/code-numericoverflow/UIfied
+* [Microsoft PowerShell](https://github.com/PowerShell/PowerShell)
+* [Awesome PowerShell](https://github.com/janikvonrotz/awesome-powershell)
+* [Bryan Cafferky](https://github.com/bcafferky)
+* [Mike F. Robbins](https://github.com/mikefrobbins)
+* [A unified PowerShell DSL for multiple UIs](https://github.com/code-numericoverflow/UIfied)
 
 ## Microsoft 365
-https://github.com/OfficeDev/Office-IT-Pro-Deployment-Scripts/tree/master/Office-ProPlus-Deployment
+[Office IT Pro Deployment Scripts](https://github.com/OfficeDev/Office-IT-Pro-Deployment-Scripts/tree/master/Office-ProPlus-Deployment)
 
 ## MECM
 
 ### eBooks
-https://www.anoopcnair.com/configmgr-ebooks-intune-windows-10-download-sccm/
+[Download SCCM eBooks for Free Intune Windows 10](https://www.anoopcnair.com/configmgr-ebooks-intune-windows-10-download-sccm/)
 
 ### Dell
-https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=h1td3
-
-### Other
-https://github.com/AdamGrossTX?tab=repositories
+[Dell Client Configuration Toolkit Application](https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=h1td3)
 
 ### Tools
 * [ConfigMgr Free Tools and Addons](https://garytown.com/configmgr-free-tools)

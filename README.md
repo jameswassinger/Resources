@@ -47,16 +47,16 @@ https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=h1td3
 https://github.com/AdamGrossTX?tab=repositories
 
 ### Tools
-* https://docs.recastsoftware.com/ConfigMgr-Docs/Community-Tools/index.html?utm_source=ThankYou&utm_medium=website&utm_campaign=CommTools
-* https://garytown.com/configmgr-free-tools
+* [ConfigMgr Free Tools and Addons](https://garytown.com/configmgr-free-tools)
 
 ## Azure
-* https://www.anoopcnair.com/download-30-azure-ebooks-from-microsoft/
-* https://isoflow.io/
-* https://azure.microsoft.com/en-us/resources/azure-networking-cookbook/
-* https://azure.microsoft.com/en-us/resources/azure-for-architects/
+* [Download 30 Azure eBooks from Microsoft Free](https://www.anoopcnair.com/download-30-azure-ebooks-from-microsoft/)
+* [Create and share network diagrams in minutes](https://isoflow.io/)
+* [Manage your network more effectively with the Azure Networking Cookbook](https://azure.microsoft.com/en-us/resources/azure-networking-cookbook/)
+* [Azure for Architects, Third Edition](https://azure.microsoft.com/en-us/resources/azure-for-architects/)
+* [ExpressRoute connectivity partners and peering locations](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-locations)
 
 ## Microsoft General
-https://github.com/mspnp
+[Microsoft patterns & practices](https://github.com/mspnp)
 
 

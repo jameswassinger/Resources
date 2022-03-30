@@ -4,21 +4,21 @@ A running list of helpful resources
 ## PowerShell
 
 ### Learning
-https://docs.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-pscustomobject?view=powershell-7.1
+* [Everything about pscustomobject](https://docs.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-pscustomobject?view=powershell-7.1)
 
 ### Exceptions
-https://powershellexplained.com/2017-04-07-all-dotnet-exception-list/
+* [PowerShell Exception List](https://powershellexplained.com/2017-04-07-all-dotnet-exception-list/)
 
 ### VSCode
-https://github.com/JustinGrote/PWSH24Examples
+* [PWSH24Examples](https://github.com/JustinGrote/PWSH24Examples)
 
 ### Best Practice
-https://github.com/ChrisLGardner/presentations/tree/main/2019-04-27-PSH-Summit-Dont-Do-That
+* [PowerShell Summit Don't Do That](https://github.com/ChrisLGardner/presentations/tree/main/2019-04-27-PSH-Summit-Dont-Do-That)
 
 ### Scripting
-* https://adamtheautomator.com/how-to-build-a-logging-function-in-powershell/
-* https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_redirection?view=powershell-7.1#:~:text=%20You%20can%20use%20the%20following%20methods%20to,redirection%20operator%20with%20a%20file%20target...%20More%20
-* https://github.com/persistent13/summit2019
+* [How to Build PowerShell Log Function](https://adamtheautomator.com/how-to-build-a-logging-function-in-powershell/)
+* [PowerShell: about_Redirection](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_redirection?view=powershell-7.1#:~:text=%20You%20can%20use%20the%20following%20methods%20to,redirection%20operator%20with%20a%20file%20target...%20More%20)
+* [PowerShell: Summit 2019](https://github.com/persistent13/summit2019)
 
 ### Videos
 * [Don't do that, do this instead: PowerShell worst practices and how to solve them by Chris Gardner](https://youtu.be/fAfxDjg1Y_M)
@@ -33,15 +33,15 @@ https://github.com/ChrisLGardner/presentations/tree/main/2019-04-27-PSH-Summit-D
 * [A unified PowerShell DSL for multiple UIs](https://github.com/code-numericoverflow/UIfied)
 
 ## Microsoft 365
-[Office IT Pro Deployment Scripts](https://github.com/OfficeDev/Office-IT-Pro-Deployment-Scripts/tree/master/Office-ProPlus-Deployment)
+* [Office IT Pro Deployment Scripts](https://github.com/OfficeDev/Office-IT-Pro-Deployment-Scripts/tree/master/Office-ProPlus-Deployment)
 
 ## MECM
 
 ### eBooks
-[Download SCCM eBooks for Free Intune Windows 10](https://www.anoopcnair.com/configmgr-ebooks-intune-windows-10-download-sccm/)
+* [Download SCCM eBooks for Free Intune Windows 10](https://www.anoopcnair.com/configmgr-ebooks-intune-windows-10-download-sccm/)
 
 ### Dell
-[Dell Client Configuration Toolkit Application](https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=h1td3)
+* [Dell Client Configuration Toolkit Application](https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=h1td3)
 
 ### Tools
 * [ConfigMgr Free Tools and Addons](https://garytown.com/configmgr-free-tools)
@@ -54,6 +54,6 @@ https://github.com/ChrisLGardner/presentations/tree/main/2019-04-27-PSH-Summit-D
 * [ExpressRoute connectivity partners and peering locations](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-locations)
 
 ## Microsoft General
-[Microsoft patterns & practices](https://github.com/mspnp)
+* [Microsoft patterns & practices](https://github.com/mspnp)
 
 
